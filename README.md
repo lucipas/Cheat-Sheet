@@ -1,2 +1,2 @@
 # Cheat-Sheet
-A template for writing cheat sheets for various thongs
+A template for writing cheat sheets for various things
